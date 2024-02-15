@@ -27,6 +27,7 @@ const App = () => {
   }
   return (
     <>
+      <h1>Calculator in react</h1>
       <div className='container'>
         <form>
           <input type="text" value={result} />
